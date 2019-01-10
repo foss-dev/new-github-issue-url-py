@@ -17,11 +17,11 @@ options = {
 issue_url = IssueUrl(options)
 
 issue_url.opn()
+```
 
 [Try the URL](https://github.com/aligoren/new-github-issue-url-py/issues/new?user=aligoren&repo=new-github-issue-url-py&title=I%27m+just+a+human&body=%0A%0A%0A---%0AI%27m+a+human.+Please+be+nice.)
 
 *(Don't click the "Submit new issue" button!)*
-```
 
 # API
 
